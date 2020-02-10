@@ -7,10 +7,10 @@ bridson
 easydict
 scikit-image
 Pillow
-imgaug
+imgaug==0.2.6
 tensorboard
 graphviz
 opencv-python-headless
 albumentations
 pytorch
-torchvision
+torchvision==0.4.1
