@@ -11,6 +11,7 @@ import cv2
 import sys
 import torch
 from tqdm.notebook import tnrange
+# from tqdm import tnrange
 
 # sys.path.insert(0, '..')
 from adaptis.inference.adaptis_sampling import get_panoptic_segmentation
